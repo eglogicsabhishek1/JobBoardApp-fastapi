@@ -1,4 +1,4 @@
-Simple Job Board API
+#Simple Job Board API
 Overview
 The Simple Job Board API is a backend API designed to manage job postings for a job board application. The API is built with FastAPI, uses PostgreSQL for persistent data storage, and SQLAlchemy for ORM database interaction.
 
